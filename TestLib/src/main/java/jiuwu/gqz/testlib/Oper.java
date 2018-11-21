@@ -13,4 +13,9 @@ public class Oper {
         return ((float) a + (float) b) / 2f;
     }
 
+    public int kt_sum(int a, int b) {
+        Utils u = new Utils();
+        return u.sum(a, b);
+    }
+
 }
