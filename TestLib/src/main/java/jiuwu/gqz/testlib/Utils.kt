@@ -1,4 +1,4 @@
-package jiuwu.gqz.myapp
+package jiuwu.gqz.testlib
 
 class Utils {
     fun sum(a: Int, b: Int): Int {
