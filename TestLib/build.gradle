@@ -1,5 +1,8 @@
 apply plugin: 'com.android.library'
 
+apply plugin: 'com.github.dcendents.android-maven'//JitPack上启用构建的配置
+group='com.github.gowcage'//JitPack上启用构建的配置
+
 android {
     compileSdkVersion 27
 

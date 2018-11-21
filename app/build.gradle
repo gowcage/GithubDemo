@@ -1,9 +1,6 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
-apply plugin: 'com.github.dcendents.android-maven'//JitPack上启用构建的配置
-
-group='com.github.gowcage'//JitPack上启用构建的配置
 
 android {
     compileSdkVersion 27
